@@ -1,0 +1,8 @@
+Line 1: Initial content.
+Line 2: This line has been modified significantly.
+Line 3: Some context here.
+# Line 4 deleted
+Line 5: More context.
+Line 6: Even more context - adding modification here too.
+Line 7: Final initial line.
+Line 8: Added a new line near the end.
